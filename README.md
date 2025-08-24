@@ -34,6 +34,13 @@
 
 ![Landing Page](preview.png)
 
+## How to Use
+```bash
+git clone https://github.com/theshahidshaikh07/Espaacio.git
+cd Espaacio
+```
+  -   Open `index.html` in your web browser.
+
 ## License
 
 This project is open-source and free to use.
