@@ -49,5 +49,5 @@ This project is open-source and free to use.
 
 ## Contact
 
-For any questions, feel free to reach out via [email](mailto:theshahidshaikh7@gmail.com).
+For any questions, feel free to reach out via [email](mailto:theshahidshaikh7@gmail.com) theshahidshaikh7@gmail.com. 
 
